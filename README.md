@@ -19,8 +19,7 @@
   - [FIM (File Integrity Monitor)]
   
 - <b>Bash</b>
-    - [Create and edit text files]
-    - [Scripts]
+    - [Bash-for-beginners](https://github.com/Jay-Jay18/bash-for-beginners)
 
 
 - <b>terraform</b>
