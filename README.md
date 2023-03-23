@@ -17,8 +17,8 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
   
   <h2> Certifications </h2>
-  - [AWS Cloud Practitioner]
-  <img src="https://imgur.com/VlEZCNg" height="25%" width="25%" />
+  - [AWS Cloud Practitioner] 
+  
 
 <h2> 🤳 Connect with me:</h2>
 
