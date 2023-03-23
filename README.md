@@ -17,7 +17,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
   
   <h2> Certifications </h2>
-   AWS Cloud Practitioner
+   [AWS Cloud Practitioner]
 ![aws-certified-cloud-practitioner (5)](https://user-images.githubusercontent.com/100384332/227349747-832be659-a63b-448b-8a77-7f9d46b98fd9.png)
 
 
