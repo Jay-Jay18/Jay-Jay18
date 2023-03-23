@@ -7,6 +7,11 @@
 
 - <b>Active Directory Home Lab</b>
   - [Active Directory Bulk User Creation]
+  - [Active Directory Security]
+  - [Manage Inactive Accounts]
+  - [Password Expiry Notifications]
+  - [Privileged Access Management]
+  - [Track Account Lockouts]
 
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
@@ -14,6 +19,13 @@
   - [FIM (File Integrity Monitor)]
   
 - <b>Bash</b>
+    - [Create and edit text files]
+    - [Scripts]
+
+
+- <b>terraform</b>
+    - [Create, provision and bootstrap on various cloud providers]
+
   
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
