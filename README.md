@@ -18,8 +18,9 @@
   
   <h2> Certifications </h2>
    AWS Cloud Practitioner
-   
-   ![aws-certified-cloud-practitioner (1)](https://user-images.githubusercontent.com/100384332/227348323-bc3a0fcd-b454-4225-8d32-6a1c1c15dc90.png)
+![aws-certified-cloud-practitioner (5)](https://user-images.githubusercontent.com/100384332/227349747-832be659-a63b-448b-8a77-7f9d46b98fd9.png)
+
+
 
 
 <h2> 🤳 Connect with me:</h2>
