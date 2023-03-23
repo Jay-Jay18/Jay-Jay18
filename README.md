@@ -1,9 +1,9 @@
-<h1>Hi, I'm Justin </h1>
+<h1> Hi, I'm Justin Johnson </h1>
 
-<h2> Cloud Projects :</h2>
+<h2> Cloud Projects </h2>
 
-- <b>Cloud Resume Challenge </b>
-  - [Challlenge](https://github.com/Jay-Jay18/JustinCloudResumeChallenge)
+
+- [Cloud Resume Challenge](https://github.com/Jay-Jay18/JustinCloudResumeChallenge)
 
 - <b>Active Directory Home Lab</b>
   - [Active Directory Bulk User Creation]
