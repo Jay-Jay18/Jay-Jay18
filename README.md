@@ -18,6 +18,7 @@
   
   <h2> Certifications </h2>
   - [AWS Cloud Practitioner]
+  <img src="https://imgur.com/VlEZCNg" height="25%" width="25%" />
 
 <h2> 🤳 Connect with me:</h2>
 
