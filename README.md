@@ -17,7 +17,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
   
   <h2> Certifications </h2>
-   [AWS Cloud Practitioner]
+   AWS Cloud Practitioner
 
 
 <h2> 🤳 Connect with me:</h2>
