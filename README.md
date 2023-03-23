@@ -2,6 +2,9 @@
 
 <h2> Cloud Projects :</h2>
 
+- <b>Cloud Resume Challenge </b>
+  - [Active Directory Bulk User Creation]
+
 - <b>Active Directory Home Lab</b>
   - [Active Directory Bulk User Creation]
 
