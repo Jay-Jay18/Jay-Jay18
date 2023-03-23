@@ -14,14 +14,7 @@
   - [Package Delivery Application (Datastructures and Algorithms Demo)]
   
   <h2> Certifications </h2>
-- AWS Cloud practitioner 
-  
-
-- [How to get into Cybersecurity Starting From Zero]
-- [A Day in the Life of a Cybersecurity Anayst]
-- [How to Create a KeyLogger (C#)]
-- [Ransomware Demonstration (C#)]
-
+  - [AWS Cloud Practitioner]
 
 <h2> 🤳 Connect with me:</h2>
 
