@@ -18,6 +18,8 @@
   
   <h2> Certifications </h2>
    AWS Cloud Practitioner
+   
+   ![Badge](https://user-images.githubusercontent.com/100384332/227346597-b1b3af90-3751-4b3d-95a6-3aaa6159e44e.PNG)
 
 
 <h2> 🤳 Connect with me:</h2>
